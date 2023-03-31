@@ -28,7 +28,7 @@ For jsonserver:
 
 ### First home page, the first time you sign in the app, you need to sign up
 
-<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/home.jpeg" width="500">
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/home.jpeg" width="25%">
 
 
 ### After you sign in, the app will remember your token, so the next time you log in this app, your account will show below:
