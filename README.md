@@ -33,7 +33,7 @@ For jsonserver:
 
 ### After you sign in, the app will remember your token, so the next time you log in this app, your account will show below:
 
-<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/accountMangament.jpeg.jpeg" width="500">
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/accountMangament.jpeg" width="500">
 
 
 Of course, if you click "Sign Out", the next time you log in, you will see the first home page.
