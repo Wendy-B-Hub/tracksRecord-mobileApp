@@ -24,46 +24,41 @@ For jsonserver:
 
 `npm run db` to open tunnel for ngrok 
 
-## display app
+## Display App
 
-### first home page, the first time you sign in the app, you need to sign up
+### First home page, the first time you sign in the app, you need to sign up
 
-![alt text](https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/home.jpeg)
-
-
-### after you sign in, the app will remember you token, so next time you log in this app, the account will show below:
-
-![alt text](https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/accountMangament.jpeg.jpeg)
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/home.jpeg" width="500">
 
 
-of course, you click sign out, the the next time you log in, you will see the first home page
+### After you sign in, the app will remember your token, so the next time you log in this app, your account will show below:
+
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/accountMangament.jpeg.jpeg" width="500">
 
 
-### everytime you click `add track` below, it will jump this page,you need to enter a track name, the start tracking , the track will display on the map:
-
-![alt text](https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/create.jpeg)
-
-![alt text](https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/tracking.jpeg)
+Of course, if you click "Sign Out", the next time you log in, you will see the first home page.
 
 
-if you click save recording button, the track will be stoppedn and  saved to the database
+### Every time you click "Add Track" below, it will jump to this page. You need to enter a track name, start tracking, and the track will display on the map:
 
-### if you want to check the tracks that you have saved, you could click `tracks` button below, it will show all the tracks that you haved saved.
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/create.jpeg" width="500">
 
-and display on the page,
-
-
-![alt text](https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/listTracks.jpeg)
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/tracking.jpeg" width="500">
 
 
-you click the name , such as the above, you click `Hiking`, you will see the detail:
+If you click "Save Recording" button, the track will be stopped and saved to the database.
+
+### If you want to check the tracks that you have saved, you could click "Tracks" button below. It will show all the tracks that you have saved and display them on the page:
+
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/listTracks.jpeg" width="500">
 
 
-![alt text](https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/showRecord.jpeg)
+If you click the name, such as "Hiking", you will see the details:
+
+<img src="https://github.com/Wendy-B-Hub/tracksRecord-mobileApp/blob/main/showRecord.jpeg" width="500">
 
 
-
-## This is a very interesting application, hope you like it !
+## This is a very interesting application, hope you like it!
 
 
 
